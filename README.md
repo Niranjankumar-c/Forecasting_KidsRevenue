@@ -7,10 +7,12 @@
   - Performed statistical comparison (RMSE, MAPE) for all the techniques and provided business recommendations.
   
 **Project Sneak Peak**:
+
 Moving averages gives overall trend based on historical values in a given time frame.
 <img src="Plots/All_SMA_EMA.png" alt="SMA EMA" width="600">
 
 Naive forecasting techniques (naive, seasonal naive, mean) provide benchmarking results againist sophisticated models such as ARIMA, SARIMA, ETS and Holt Winter.
+
 <img src="Plots/naive.png" alt="SMA EMA" width="600">
 
 -------
